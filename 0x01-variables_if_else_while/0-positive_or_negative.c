@@ -3,7 +3,8 @@
 #include <time.h>
 /**
  * main - prints if number is positive,zero or negative
- * return: always (success)
+ *
+ * Return: Always (success)
  *
  */
 
@@ -26,6 +27,6 @@ int main(void)
 		printf("%d is negative\n", n);
 	}
 
-RETURN:task zero;
+	return (0);
 
 }
