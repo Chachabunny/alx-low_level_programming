@@ -4,7 +4,7 @@
 /**
  * main - prints if number is positive,zero or negative
  *
- * Return: Always (success)
+ * Return: Always (success`)
  *
  */
 
