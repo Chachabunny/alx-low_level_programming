@@ -5,7 +5,7 @@
  *
  * Return: 0 on success
  */
-int main(void)
+int Main(void)
 {
 	char ch = 'a';
 
@@ -18,3 +18,8 @@ int main(void)
 
 		ch++;
 	}
+
+	putchar('\n');
+
+	return (0);
+}
